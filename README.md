@@ -2,7 +2,7 @@
 
 All API should be added on own, There is instruction how to do it 
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Apache2.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/)
 [![LiveKit](https://img.shields.io/badge/LiveKit-Agents-orange.svg)](https://livekit.io/)
 [![Ink-Whisper](https://img.shields.io/badge/STT-Ink--Whisper-blueviolet.svg)](https://deepgram.com/)
