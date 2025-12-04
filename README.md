@@ -1,4 +1,4 @@
-# 🎤 BoliGen - Next-Gen Multilingual Voice Assistant
+# 🎤 BoliGen - Next-Gen Multilingual AI Voice Assistant
 
 All API should be added on own, There is instruction how to do it 
 
