@@ -1,0 +1,42 @@
+# Vienna AI Voice Assistant - Requirements
+# Python 3.8+ required
+
+# Core LiveKit Framework
+livekit-agents>=0.8.0
+livekit-api>=0.5.0
+
+# LiveKit Plugins
+livekit-plugins-deepgram>=0.6.0
+livekit-plugins-openai>=0.7.0
+livekit-plugins-cartesia>=0.2.0
+livekit-plugins-silero>=0.6.0
+
+# Voice Activity Detection & Noise Cancellation
+livekit-plugins-noise-cancellation>=0.1.0
+
+# Environment Management
+python-dotenv>=1.0.0
+
+# Additional Dependencies (if needed)
+# Uncomment based on your deployment needs
+
+# For web interface
+# gradio>=4.0.0
+# fastapi>=0.104.0
+# uvicorn>=0.24.0
+
+# For data processing
+# numpy>=1.24.0
+# pandas>=2.0.0
+
+# For logging and monitoring
+# loguru>=0.7.0
+# prometheus-client>=0.19.0
+
+# For async operations
+# aiohttp>=3.9.0
+# asyncio>=3.4.3
+
+# For testing
+# pytest>=7.4.0
+# pytest-asyncio>=0.21.0
