@@ -26,6 +26,8 @@ BoliGen shatters the language barrier with comprehensive support for **Indian re
 
 Perfect for **global communication, healthcare, education & customer service**, deployable anywhere with enterprise-grade privacy.
 
+Youtube Demo Video : watch from 48 sec https://youtu.be/sKE2JrOVLhs?si=nQFmx_i34DIXb9et
+
 <br>
 
 ## 🌟 Key Highlights
